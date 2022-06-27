@@ -1,0 +1,6 @@
+.TodoList {
+  width: 25rem;
+  height: calc(100vh - 18rem);
+  margin: 0 auto;
+  overflow-y: scroll;
+}
